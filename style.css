@@ -4,13 +4,13 @@ body{
 }
  
 h1 {
-    color: chartreuse;
+    color: yellow;
     background-color: black;
 }
 
 h2 {
-    color: rgb(202, 166, 99);
-    background-color: rgb(48, 77, 82);
+    color: antiquewhite;
+    background-color: black;
 }
 
 h6 {
